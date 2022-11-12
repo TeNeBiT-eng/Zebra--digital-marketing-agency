@@ -1,0 +1,31 @@
+.headerH1_headerImg {
+  margin-top: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.headerH1 {
+  max-width: 40%;
+}
+
+.H1 {
+  font-size: 3.2rem;
+  font-weight: 600;
+  margin-bottom: 1.5rem;
+}
+
+.lorem {
+  line-height: 1.7;
+}
+
+.headerBtn {
+  padding: 0.8rem 2rem;
+  margin-top: 2rem;
+  border-radius: 1.5rem;
+  border: none;
+  color: black;
+  font-weight: 600;
+  background-color: #3dd47e;
+  transition: all 0.4s ease;
+}
