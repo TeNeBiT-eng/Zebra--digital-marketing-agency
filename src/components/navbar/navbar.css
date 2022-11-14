@@ -51,6 +51,10 @@ a:hover::before {
     transition: all 0.4s ease;
 }
 
+.navItem button:hover {
+  transform: scale(1.1);
+}
+
 .navItems button {
   padding: 0.8rem;
   border-radius: 5px;

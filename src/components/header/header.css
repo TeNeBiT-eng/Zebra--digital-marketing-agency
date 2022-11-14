@@ -29,3 +29,7 @@
   background-color: #3dd47e;
   transition: all 0.4s ease;
 }
+
+.headerBtn:hover {
+  transform: scale(1.1);
+}
